@@ -1,0 +1,10 @@
+shellcode-extract
+=================
+
+Run 
+
+    egg.sh objectfile
+
+Output bytes are written as C string to stdout
+
+
